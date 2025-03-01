@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik-555" alt="kartik-555" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning
+    **Advanced Machine Learning & Deep Learning (TensorFlow, PyTorch)**
+    **Advanced SQL & Database Optimization**
+    **Next.js & TypeScript for Scalable Web Apps**
 
 - 📫 How to reach me **kartikver2001@gmail.com**
 
