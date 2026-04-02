@@ -10,7 +10,7 @@
     **Advanced SQL & Database Optimization**
     **Next.js & TypeScript for Scalable Web Apps**
 
-- 📫 How to reach me **kartikver2001@gmail.com**
+- 📫 How to reach me **kartikvermaaa01@gmail.com**
 
 - ⚡ Fun fact **I think I’m funny… but my code has better error handling than my jokes.**
 
